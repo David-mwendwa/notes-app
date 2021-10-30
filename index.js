@@ -1,1 +1,5 @@
-console.log('Note taking application')
+const validator = require('validator')
+const getNotes = require('./notes')
+
+console.log(getNotes('notes.txt'))
+console.log(validator.isURL('www.techdave.com'))
