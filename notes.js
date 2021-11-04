@@ -5,5 +5,3 @@ const getNotes = function (fileName) {
 }
 
 module.exports = getNotes
-
-
