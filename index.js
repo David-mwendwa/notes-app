@@ -3,4 +3,4 @@ const getNotes = require('./notes')
 
 //console.log(getNotes('notes.txt'))
 
-console.log(chalk.inverse.underline.bold.red('danger!'))
+//console.log(chalk.inverse.underline.bold.red('danger!'))
